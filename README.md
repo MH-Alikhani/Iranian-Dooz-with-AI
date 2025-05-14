@@ -1,4 +1,5 @@
 # Iranian Dooz with AI
+[![Wiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MH-Alikhani/Iranian-Dooz-with-AI)
 
 ## Overview
 
